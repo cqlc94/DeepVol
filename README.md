@@ -1,1 +1,1 @@
-# Data Scaling Effect of Deep Learning in Financial Time Series Forecasting
+# Global DL Model in Financial Time Series Forecasting
